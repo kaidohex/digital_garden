@@ -1,4 +1,5 @@
 ---
+title: Kepler Base
 aliases:
   - 🪐 Kepler Base
 ---
@@ -40,7 +41,7 @@ All systems are monitored for stability, and experimental operations are logged 
 **Maintenance and programming operations**
 
 - [[C.md|C Bay]] – core C programming modules 💻 ✅  
-- [[CPP.md|CPP Bay]] – advanced C++ modules 🚀 ✅  
+- [[C++.md|CPP Bay]] – advanced C++ modules 🚀 ✅  
 - [[Assembly.md|Assembly Dock]] – low-level assembly operations 🛠️ ⚠️  
 
 ---
