@@ -1,4 +1,5 @@
 ---
+title: ML Lab
 aliases:
   - 🤖 ML Lab
 ---
