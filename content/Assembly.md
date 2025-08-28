@@ -1,4 +1,5 @@
 ---
+title: Assembly Dock
 aliases:
   - 🛠️ Assembly Dock
 ---

@@ -1,4 +1,5 @@
 ---
+title: Guide Map
 aliases:
   - 🗺️ Guide Map
 ---

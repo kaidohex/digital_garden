@@ -1,4 +1,5 @@
 ---
+title: CPP Bay
 aliases:
   - 🚀 CPP Bay
 ---

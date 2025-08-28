@@ -1,4 +1,5 @@
 ---
+title: Architecture Wing
 aliases:
   - 🖥️ Architecture Wing
 ---
