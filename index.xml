@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Architecture Wing</title>
+    <link>https://quartz.jzhao.xyz/Architecture</link>
+    <guid>https://quartz.jzhao.xyz/Architecture</guid>
+    <description><![CDATA[ 🖥️ Architecture Wing – Core Systems Deck Status: Online | Modules Active ✅ Command Deck: Critical Controls – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.410° | Y: -122.872° | Z: 359.55 km “All systems stable. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>Assembly Dock</title>
+    <link>https://quartz.jzhao.xyz/Assembly</link>
+    <guid>https://quartz.jzhao.xyz/Assembly</guid>
+    <description><![CDATA[ 🛠️ Assembly Dock – Low-Level Bay Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Dock Log Coordinates: X: 47.395° | Y: -122.853° | Z: 358.88 km “All systems green. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>C Bay</title>
+    <link>https://quartz.jzhao.xyz/C</link>
+    <guid>https://quartz.jzhao.xyz/C</guid>
+    <description><![CDATA[ ✈️ C Bay – Jet Deck Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.389° | Y: -122.841° | Z: 358.55 km “All systems green. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>CPP Bay</title>
+    <link>https://quartz.jzhao.xyz/CPP</link>
+    <guid>https://quartz.jzhao.xyz/CPP</guid>
+    <description><![CDATA[ 🚀 CPP Bay – Rocket Deck Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.392° | Y: -122.849° | Z: 358.72 km “All systems green. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>ML Lab</title>
+    <link>https://quartz.jzhao.xyz/ML</link>
+    <guid>https://quartz.jzhao.xyz/ML</guid>
+    <description><![CDATA[ 🤖 ML Lab – Experimental Wing Status: Online | Modules Active ✅ Command Deck: Research Modules – Kepler Base 🪐 📝 Lab Log Coordinates: X: 47.415° | Y: -122.880° | Z: 359.88 km “All systems operational. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>OS Wing</title>
+    <link>https://quartz.jzhao.xyz/OS</link>
+    <guid>https://quartz.jzhao.xyz/OS</guid>
+    <description><![CDATA[ ⚙️ OS Wing – Kernel Deck Status: Online | Modules Active ✅ Command Deck: Critical Controls – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.412° | Y: -122.875° | Z: 359.70 km “Kernel Deck online. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>Kepler Base</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ 🪐 Kepler Base – Command Deck Welcome to Kepler Base, your orbital hub for all technical modules and research wings. ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item><item>
+    <title>Guide Map</title>
+    <link>https://quartz.jzhao.xyz/readme</link>
+    <guid>https://quartz.jzhao.xyz/readme</guid>
+    <description><![CDATA[ 🛰️ Main Dashboard Kepler Base 🪐 serves as the central hub Core Modules (Critical Controls): Architecture Wing, OS Wing Engineering Bay: C Bay, CPP Bay, Assembly Dock Research Modules: ML Lab, Physics Observation Deck Deactivated / Under Repair: Networking Dock, Compiler Bay Each wing or deck links... ]]></description>
+    <pubDate>Thu, 28 Aug 2025 22:03:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
