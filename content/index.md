@@ -21,7 +21,7 @@ All systems are monitored for stability, and experimental operations are logged 
 
 ---
 
-### ⚡ Core Modules Overview
+### ⚡ Modules Overview
 
 | Module | Location | Status | Description |
 |--------|---------|--------|-------------|
@@ -37,7 +37,7 @@ All systems are monitored for stability, and experimental operations are logged 
 
 ---
 
-### Core Modules
+### ⚡ Core Modules
 Basics and fabrication
 - [[Architecture|🖥️ Architecture Wing]] - Design and build the ship
 - [[OS|⚙️ OS Wing]] - Design the systems
