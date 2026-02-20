@@ -37,10 +37,17 @@ All systems are monitored for stability, and experimental operations are logged 
 
 ---
 
+### Core Modules
+Basics and fabrication
+- [[Architecture|🖥️ Architecture Wing]] - Design and build the ship
+- [[OS|⚙️ OS Wing]] - Design the systems
+
+---
+
 ### 🛠️ Engineering Bay
 **Maintenance and programming operations**
 
-- [[Architecture|🖥️ Architecture Wing]] - Design and build the ship
+
 - [[C.md|C Bay]] – core C programming modules 💻 ✅  
 - [[CPP.md|CPP Bay]] – advanced C++ modules 🚀 ✅  
 - [[Assembly.md|Assembly Dock]] – low-level assembly operations 🛠️ ⚠️  
