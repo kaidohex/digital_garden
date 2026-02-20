@@ -20,7 +20,7 @@ aliases:
 
 ### ⚡ Architecture Modules
 
-- [[Architecture/Introduction.md|Introduction]]
+- [[Architecture/01_Introduction|Introduction]]
 - [[Binary Numbers|Binary Numbers]]
 
 ---
