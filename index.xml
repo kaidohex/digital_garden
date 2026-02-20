@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Kepler Base</title>
+      <link>https://kaidohex.github.io/digital_garden</link>
+      <description>Last 10 notes on Kepler Base</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Architecture Wing</title>
+    <link>https://kaidohex.github.io/digital_garden/Architecture</link>
+    <guid>https://kaidohex.github.io/digital_garden/Architecture</guid>
+    <description><![CDATA[ 🖥️ Architecture Wing – Core Systems Deck Status: Online | Modules Active ✅ Command Deck: Critical Controls – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.410° | Y: -122.872° | Z: 359.55 km “All systems stable. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>01_Introduction</title>
+    <link>https://kaidohex.github.io/digital_garden/Architecture/01_Introduction</link>
+    <guid>https://kaidohex.github.io/digital_garden/Architecture/01_Introduction</guid>
+    <description><![CDATA[ Computer Architecture is the theory to learn how computers work. It is based on pure mathematics and electronics. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>Assembly Dock</title>
+    <link>https://kaidohex.github.io/digital_garden/Assembly</link>
+    <guid>https://kaidohex.github.io/digital_garden/Assembly</guid>
+    <description><![CDATA[ 🛠️ Assembly Dock – Low-Level Bay Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Dock Log Coordinates: X: 47.395° | Y: -122.853° | Z: 358.88 km “All systems green. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>C Bay</title>
+    <link>https://kaidohex.github.io/digital_garden/C</link>
+    <guid>https://kaidohex.github.io/digital_garden/C</guid>
+    <description><![CDATA[ ✈️ C Bay – Jet Deck Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.389° | Y: -122.841° | Z: 358.55 km “All systems green. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>CPP Bay</title>
+    <link>https://kaidohex.github.io/digital_garden/CPP</link>
+    <guid>https://kaidohex.github.io/digital_garden/CPP</guid>
+    <description><![CDATA[ 🚀 CPP Bay – Rocket Deck Status: Online | Modules Active ✅ Command Deck: Engineering Bay – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.392° | Y: -122.849° | Z: 358.72 km “All systems green. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>ML Lab</title>
+    <link>https://kaidohex.github.io/digital_garden/ML</link>
+    <guid>https://kaidohex.github.io/digital_garden/ML</guid>
+    <description><![CDATA[ 🤖 ML Lab – Experimental Wing Status: Online | Modules Active ✅ Command Deck: Research Modules – Kepler Base 🪐 📝 Lab Log Coordinates: X: 47.415° | Y: -122.880° | Z: 359.88 km “All systems operational. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>OS Wing</title>
+    <link>https://kaidohex.github.io/digital_garden/OS</link>
+    <guid>https://kaidohex.github.io/digital_garden/OS</guid>
+    <description><![CDATA[ ⚙️ OS Wing – Kernel Deck Status: Online | Modules Active ✅ Command Deck: Critical Controls – Kepler Base 🪐 📝 Deck Log Coordinates: X: 47.412° | Y: -122.875° | Z: 359.70 km “Kernel Deck online. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>Kepler Base</title>
+    <link>https://kaidohex.github.io/digital_garden/</link>
+    <guid>https://kaidohex.github.io/digital_garden/</guid>
+    <description><![CDATA[ 🪐 Kepler Base – Command Deck Welcome to Kepler Base, your orbital hub for all technical modules and research wings. ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item><item>
+    <title>Guide Map</title>
+    <link>https://kaidohex.github.io/digital_garden/readme</link>
+    <guid>https://kaidohex.github.io/digital_garden/readme</guid>
+    <description><![CDATA[ 🛰️ Main Dashboard Kepler Base 🪐 serves as the central hub Core Modules (Critical Controls): Architecture Wing, OS Wing Engineering Bay: C Bay, CPP Bay, Assembly Dock Research Modules: ML Lab, Physics Observation Deck Deactivated / Under Repair: Networking Dock, Compiler Bay Each wing or deck links... ]]></description>
+    <pubDate>Fri, 20 Feb 2026 17:08:40 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
