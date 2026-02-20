@@ -1,12 +1,11 @@
 ---
-title: Guide Map
 aliases:
   - 🗺️ Guide Map
 ---
 
 ## 🛰️ Main Dashboard
 
-[[Kepler Base.md|Kepler Base 🪐]] serves as the central hub  
+[[index|🪐 Kepler Base]] serves as the central hub  
 
 - **Core Modules (Critical Controls):** Architecture Wing, OS Wing  
 - **Engineering Bay:** C Bay, CPP Bay, Assembly Dock  
@@ -56,4 +55,4 @@ Every module has its own **dashboard** with coordinates, deck logs, and atomic m
 
 ---
 
-**Mission Control – Kepler Base 🪐** 
+[]:**Mission Control – Kepler Base 🪐** 
