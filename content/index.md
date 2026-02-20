@@ -1,4 +1,5 @@
 ---
+title: Kepler Base
 aliases:
   - 🪐 Kepler Base
 ---
