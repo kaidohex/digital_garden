@@ -1,5 +1,4 @@
 ---
-title: Kepler Base
 aliases:
   - 🪐 Kepler Base
 ---
@@ -40,6 +39,7 @@ All systems are monitored for stability, and experimental operations are logged 
 ### 🛠️ Engineering Bay
 **Maintenance and programming operations**
 
+- [[Architecture|🖥️ Architecture Wing]] - Design and build the ship
 - [[C.md|C Bay]] – core C programming modules 💻 ✅  
 - [[CPP.md|CPP Bay]] – advanced C++ modules 🚀 ✅  
 - [[Assembly.md|Assembly Dock]] – low-level assembly operations 🛠️ ⚠️  
